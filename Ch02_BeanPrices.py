@@ -14,5 +14,6 @@ while price > 4.74:
     end_of_price = start_of_price + 4
      
     price = float(text[start_of_price:end_of_price])
+    print(price)
 
 print("Buy!")
