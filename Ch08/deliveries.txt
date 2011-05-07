@@ -1,0 +1,35 @@
+Depot:
+1
+Description:
+2
+Address:
+3
+
+Depot:
+Seattle, WA
+Description:
+2
+Address:
+3
+
+Depot:
+Rhodes, Greece
+Description:
+2
+Address:
+3
+
+Depot:
+Luxor, Egypt
+Description:
+2
+Address:
+3
+
+Depot:
+Rhodes, Greece
+Description:
+2
+Address:
+3
+
